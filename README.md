@@ -9,15 +9,13 @@ A full-stack, role-based office management system built with **PHP, JavaScript, 
 1. [Features](#-features)
 2. [Tech Stack](#-tech-stack)
 3. [Project Structure](#-project-structure)
-4. [Database Schema](#-database-schema)
-5. [User Roles & Permissions](#-user-roles--permissions)
-6. [Installation & Setup](#️-installation--setup)
-7. [How to Run with Apache](#️-how-to-run-with-apache)
-8. [Default Login Credentials](#-default-login-credentials)
-9. [How the System Works](#-how-the-system-works)
-10. [Security Notes](#-security-notes)
-11. [Known Limitations](#️-known-limitations)
-12. [Author](#️-author)
+4. [User Roles & Permissions](#-user-roles--permissions)
+5. [Installation & Setup](#️-installation--setup)
+6. [How to Run with Apache](#️-how-to-run-with-apache)
+7. [How the System Works](#-how-the-system-works)
+8. [Security Notes](#-security-notes)
+9. [Known Limitations](#️-known-limitations)
+10. [Author](#️-author)
 
 ---
 
